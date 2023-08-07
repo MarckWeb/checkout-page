@@ -38,10 +38,9 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? You can see the demo in the link or directly on the devChallenge.io page
+- What was your experience? muy buena, ya que en lo personal estoy practicando sass.
+- What have you learned/improved? especially to work with figma designs seeing their px, sizes and that it comes out as is.
 
 ### Built With
 
